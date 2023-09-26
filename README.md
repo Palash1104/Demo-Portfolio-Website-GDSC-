@@ -17,5 +17,4 @@
   ![Screenshot (35)](https://github.com/Palash1104/GDSC-Task/assets/101207359/27c2d405-309b-4d11-a454-8ce8ec2dea28)
   ![Screenshot (36)](https://github.com/Palash1104/GDSC-Task/assets/101207359/d1366d37-6a08-4908-9ff0-edee75915134)
 
-I was not able to complete the mobile part since I had Physics Viva Exam today.
 
